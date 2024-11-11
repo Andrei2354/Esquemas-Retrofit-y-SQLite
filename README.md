@@ -1,8 +1,8 @@
 # Esquemas-Retrofit-y-SQLite
 Para empazar a utilzar Retrofit en los proyectos hay que importar dos implementaciones en builds.gradle.kts:
 
-implementation ("com.squareup.retrofit2:retrofit:2.9.0")
-implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
+# implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+# implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
     
 ![image](https://github.com/user-attachments/assets/19a7cb2e-5095-4270-b286-4cde3cad1422)
 
