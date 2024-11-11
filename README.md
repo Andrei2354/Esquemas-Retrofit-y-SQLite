@@ -8,10 +8,12 @@ Para empazar a utilzar Retrofit en los proyectos hay que importar dos implementa
 
 
 Después de escribirlo hay que sincronizar el proyecto para que se guarden los cambios.
+
 ![image](https://github.com/user-attachments/assets/0b272e0b-f14f-47a5-8134-408a0df0c3d2)
 
 Hay que selecionar la opción (Replace with existing version catalog reference "la opción a cambiar") y volver a sincronizar el proyecto.
 Hay que importar retrofit2.Retrofit  import retrofit2.converter.gson.GsonConverterFactory
+
 ![image](https://github.com/user-attachments/assets/08c48874-a568-482f-9ceb-9287254ff89f)
 --------
 ![image](https://github.com/user-attachments/assets/ce6b4d35-89be-46ba-8264-3d54babf7d79)
