@@ -22,3 +22,7 @@ Hay que importar retrofit2.Retrofit  import retrofit2.converter.gson.GsonConvert
 --------
 # Esquema sqlite
 ![image](https://github.com/user-attachments/assets/a622a248-c254-4bc2-82fe-2ce3bd6efc94)
+--------
+![image](https://github.com/user-attachments/assets/dce1061c-1c58-4c7e-b910-3a887d4dcab1)
+
+
