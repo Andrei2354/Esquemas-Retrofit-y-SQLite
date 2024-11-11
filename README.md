@@ -27,6 +27,7 @@ Hay que importar retrofit2.Retrofit  import retrofit2.converter.gson.GsonConvert
 --------
 ![image](https://github.com/user-attachments/assets/dce1061c-1c58-4c7e-b910-3a887d4dcab1)
 --------
-![image](https://github.com/user-attachments/assets/6a5fabfa-6d2a-4713-8022-3257480b8042)
+![image](https://github.com/user-attachments/assets/d472f375-1b11-4844-a182-bce82630ca94)
+
 
 
