@@ -16,6 +16,8 @@ Hay que importar retrofit2.Retrofit  import retrofit2.converter.gson.GsonConvert
 
 ![image](https://github.com/user-attachments/assets/08c48874-a568-482f-9ceb-9287254ff89f)
 --------
+
+
 ![image](https://github.com/user-attachments/assets/ce6b4d35-89be-46ba-8264-3d54babf7d79)
 ------------
 ![image](https://github.com/user-attachments/assets/bbc9fa9e-47a3-4942-ba56-a9eebdf2c72d)
@@ -23,6 +25,10 @@ Hay que importar retrofit2.Retrofit  import retrofit2.converter.gson.GsonConvert
 
 --------
 # Esquema sqlite
+
+https://developer.android.com/training/data-storage/sqlite?hl=es-419
+
+
 ![image](https://github.com/user-attachments/assets/a622a248-c254-4bc2-82fe-2ce3bd6efc94)
 --------
 ![image](https://github.com/user-attachments/assets/dce1061c-1c58-4c7e-b910-3a887d4dcab1)
