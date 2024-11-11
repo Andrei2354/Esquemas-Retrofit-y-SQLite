@@ -28,6 +28,13 @@ Hay que importar retrofit2.Retrofit  import retrofit2.converter.gson.GsonConvert
 
 https://developer.android.com/training/data-storage/sqlite?hl=es-419
 
+Primero hay que importar los modulos necesarios.
+Crear la clase Used to allow returning sub-classes of Cursor when calling query.
+Create a helper object to create, open, and/or manage a database.
+Despues crear el objeto con los parametros de la query.
+Oncreate para crearla 
+OnUpgrade para actualizarla
+
 
 ![image](https://github.com/user-attachments/assets/a622a248-c254-4bc2-82fe-2ce3bd6efc94)
 --------
