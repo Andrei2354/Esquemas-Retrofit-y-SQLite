@@ -13,10 +13,7 @@ Después de escribirlo hay que sincronizar el proyecto para que se guarden los c
 Hay que selecionar la opción (Replace with existing version catalog reference "la opción a cambiar") y volver a sincronizar el proyecto.
 ![image](https://github.com/user-attachments/assets/08c48874-a568-482f-9ceb-9287254ff89f)
 
-Hay que importar retrofit2.Retrofit  import retrofit2.converter.gson.GsonConverterFactory
---------
-
-
+Hay que importar retrofit2.Retrofit y retrofit2.converter.gson.GsonConverterFactory
 ![image](https://github.com/user-attachments/assets/ce6b4d35-89be-46ba-8264-3d54babf7d79)
 ------------
 ![image](https://github.com/user-attachments/assets/bbc9fa9e-47a3-4942-ba56-a9eebdf2c72d)
