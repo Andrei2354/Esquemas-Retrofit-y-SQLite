@@ -1,9 +1,8 @@
 # Esquemas-Retrofit-y-SQLite
 Para empazar a utilzar Retrofit en los proyectos hay que importar dos implementaciones en builds.gradle.kts:
 
- implementation ("com.squareup.retrofit2:retrofit:2.9.0")
- implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
-    
+
+Ejemplo de como se vería    
 ![image](https://github.com/user-attachments/assets/19a7cb2e-5095-4270-b286-4cde3cad1422)
 
 
@@ -12,9 +11,9 @@ Después de escribirlo hay que sincronizar el proyecto para que se guarden los c
 ![image](https://github.com/user-attachments/assets/0b272e0b-f14f-47a5-8134-408a0df0c3d2)
 
 Hay que selecionar la opción (Replace with existing version catalog reference "la opción a cambiar") y volver a sincronizar el proyecto.
-Hay que importar retrofit2.Retrofit  import retrofit2.converter.gson.GsonConverterFactory
-
 ![image](https://github.com/user-attachments/assets/08c48874-a568-482f-9ceb-9287254ff89f)
+
+Hay que importar retrofit2.Retrofit  import retrofit2.converter.gson.GsonConverterFactory
 --------
 
 
@@ -24,23 +23,26 @@ Hay que importar retrofit2.Retrofit  import retrofit2.converter.gson.GsonConvert
 
 
 --------
-# Esquema sqlite
+
+# Esquema de Base de Datos SQLite
+SQLite es una base de datos ligera integrada en Android que facilita el almacenamiento persistente de datos.
+
+Primero hay que importar módulos necesarios: Asegúrate de tener los módulos de SQLite en tu proyecto.
+
+Crear una clase de Helper: Esta clase ayudará a crear, abrir y gestionar la base de datos.
+
+Definir el esquema de la base de datos: Incluye los parámetros y las consultas necesarias.
+
+Métodos onCreate y onUpgrade: Implementa estos métodos en el Helper para gestionar la creación y actualización de la base de datos.
+
+Para más detalles sobre el uso de SQLite en Android, consulta la documentación oficial: Documentación de SQLite en Android:
 
 https://developer.android.com/training/data-storage/sqlite?hl=es-419
 
-Primero hay que importar los modulos necesarios.
-Crear la clase Used to allow returning sub-classes of Cursor when calling query.
-Create a helper object to create, open, and/or manage a database.
-Despues crear el objeto con los parametros de la query.
-Oncreate para crearla 
-OnUpgrade para actualizarla
-
-
+Se muestra un ejemplo de los módulos necesarios, la clase, el objeto con los parámetros, Oncreate para crearla y OnUpgrade para actualizarla
 ![image](https://github.com/user-attachments/assets/a622a248-c254-4bc2-82fe-2ce3bd6efc94)
---------
-![image](https://github.com/user-attachments/assets/dce1061c-1c58-4c7e-b910-3a887d4dcab1)
---------
-![image](https://github.com/user-attachments/assets/d472f375-1b11-4844-a182-bce82630ca94)
 
 
 
+
+  
